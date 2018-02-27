@@ -1,11 +1,13 @@
+
 export const environment = {
     production: false,
     firebaseConfig: {
-        apiKey: 'APIKEY',
-        authDomain: 'DEV-APP.firebaseapp.com',
-        databaseURL: 'https://DEV-APP.firebaseio.com',
-        projectId: 'DEV-APP',
-        storageBucket: 'DEV-APP.appspot.com',
-        messagingSenderId: '123456789'
+        apiKey: "AIzaSyCmyPPpTh2Yx_mWUYL0PNAf6eEKpODdZEU",
+        authDomain: "finalexam-7d4e9.firebaseapp.com",
+        databaseURL: "https://finalexam-7d4e9.firebaseio.com",
+        projectId: "finalexam-7d4e9",
+        storageBucket: "finalexam-7d4e9.appspot.com",
+        messagingSenderId: "200716563429"
+    
     }
 };
